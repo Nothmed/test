@@ -1,0 +1,15 @@
+
+
+body {
+    background-color: var(--tg-theme-bg-color, #ffffff);
+    color: var(--tg-theme-text-color, #000000);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.title {
+    font-size: 36px;
+    text-align: center;
+}
